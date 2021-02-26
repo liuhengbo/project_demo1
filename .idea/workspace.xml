@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9022f09-917b-4b15-9bf0-9eb920d7042b" name="默认的" comment="" />
+    <list default="true" id="a9022f09-917b-4b15-9bf0-9eb920d7042b" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/utils/helpers.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/App/utils/helpers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/utils/responseHeader.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/App/utils/responseHeader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/wechatLoginCode.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/wechatLoginCode.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +42,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\liuhengbo\www\project_demo1\server\App" />
       <recent name="C:\liuhengbo\www\project_demo1\server" />
     </key>
   </component>
@@ -47,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614313438043</updated>
-      <workItem from="1614313439122" duration="2876000" />
+      <workItem from="1614313439122" duration="12510000" />
     </task>
     <servers />
   </component>
@@ -55,13 +62,17 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="773" y="224" key="NewPhpClassDialog" timestamp="1614313452363">
+    <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1614324062462">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="773" y="224" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614313452363" />
-    <state x="785" y="439" key="NewPhpFileDialog" timestamp="1614318109724">
+    <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614324062462" />
+    <state x="773" y="224" key="NewPhpClassDialog" timestamp="1614337366992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="785" y="439" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614318109724" />
+    <state x="773" y="224" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614337366992" />
+    <state x="785" y="439" key="NewPhpFileDialog" timestamp="1614337343448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="785" y="439" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614337343448" />
   </component>
 </project>

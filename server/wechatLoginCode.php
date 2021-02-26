@@ -1,5 +1,7 @@
 <?php
-require_once './utils/responseHeader.php';
-require_once './utils/helpers.php';
+require __DIR__ . '/vendor/autoload.php';
+
+
 
 success();
+
