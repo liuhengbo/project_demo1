@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>微信登录</title>
+    <script src="./js/config/Config.js"></script>
+</head>
+<body>
+    <div>
+
+        <div></div>
+        <div>
+            <button class="wechat_login" type="button">微信登录</button>
+        </div>
+        <div>
+            <div>
+                <img class="wechat_img" src=""/>
+            </div>
+        </div>
+    </div>
+</body>
+<script type="text/javascript" src="./js/jquery/jquery.js"></script>
+<script type="text/javascript" src="./node_modules/axios/dist/axios.js"></script>
+<script type="text/javascript">
+    // import axios from "./node_modules/axios";
+    let timer = null
+
+    $(document).on('click','.wechat_login',function(){
+        // console.log("点击微信登录")
+        let getWechatLoginCodeUrl = Config.getWechatLoginCodeUrl;
+        axios.get(getWechatLoginCodeUrl).then(response =>{
+            let res = response.data;
+            if(res.isRet == 1){
+                // 成功
+                // 显示二维码图片
+                $(".wechat_img").attr('src',"https://www.baidu.com/img/dong_2f48771871e8ad5e62e1ceacb6d5efcd.gif")
+            }else{
+                // 失败
+                alert("请求微信登录二维码失败")
+            }
+        })
+    })
+</script>
+</html>
