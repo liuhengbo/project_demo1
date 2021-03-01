@@ -9,7 +9,10 @@
     "autoload": {
         "psr-4": {
             "App\\": "./App/"
-        }
+        },
+        "files": [
+            "./App/utils/helpers.php"
+        ]
     },
     "require": {
         "overtrue/wechat": "~4.0"

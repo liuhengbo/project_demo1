@@ -1,13 +1,22 @@
 <?php
 
 
-namespace Helpers;
+namespace App\Helpers;
 
 
 class RequestHelper
 {
 
     public static $instance = null;
+
+    public function get($key)
+    {
+        if(isset($_GET[$key])){
+            return $_GET[$key];
+        }else{
+            return null;
+        }
+    }
 
     public static function getInstance()
     {

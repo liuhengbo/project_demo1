@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9022f09-917b-4b15-9bf0-9eb920d7042b" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/project_demo1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project_demo1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/js/config/Config.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/js/config/Config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/wechat_login.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/wechat_login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/App/Controllers/WechatLoginCodeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/App/Controllers/WechatLoginCodeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/App/Helpers/RequestHelper.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/App/Helpers/RequestHelper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/App/Helpers/WechatHelper.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/App/Helpers/WechatHelper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/App/utils/helpers.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/App/utils/helpers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +101,7 @@
       <workItem from="1614313439122" duration="12510000" />
       <workItem from="1614491795376" duration="768000" />
       <workItem from="1614596733327" duration="33000" />
-      <workItem from="1614609088455" duration="618000" />
+      <workItem from="1614609088455" duration="6567000" />
     </task>
     <servers />
   </component>
@@ -102,22 +109,30 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="303" y="299" width="836" height="442" key="#Web浏览器" timestamp="1614610205630">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="303" y="299" width="836" height="442" key="#Web浏览器/0.0.1920.1040@0.0.1920.1040" timestamp="1614610205630" />
     <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1614324062462">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614324062462" />
-    <state x="743" y="278" width="424" height="494" key="FileChooserDialogImpl" timestamp="1614596763796">
+    <state x="743" y="278" width="424" height="494" key="FileChooserDialogImpl" timestamp="1614610201788">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="743" y="278" width="424" height="494" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1614596763796" />
-    <state x="773" y="224" key="NewPhpClassDialog" timestamp="1614609279375">
+    <state x="743" y="278" width="424" height="494" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1614610201788" />
+    <state x="773" y="224" key="NewPhpClassDialog" timestamp="1614611803499">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="773" y="224" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614609279375" />
-    <state x="785" y="439" key="NewPhpFileDialog" timestamp="1614609264555">
+    <state x="773" y="224" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614611803499" />
+    <state x="785" y="439" key="NewPhpFileDialog" timestamp="1614614782931">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="785" y="439" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614609264555" />
+    <state x="785" y="439" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614614782931" />
+    <state x="661" y="259" width="597" height="522" key="find.popup" timestamp="1614610313233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="259" width="597" height="522" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614610313233" />
     <state x="624" y="234" key="run.anything.popup" timestamp="1614609253836">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

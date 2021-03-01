@@ -12,5 +12,5 @@ function success($data = [],$info="成功",$isRet = 1){
 }
 
 function request(){
-    return \Helpers\RequestHelper::getInstance();
+    return \App\Helpers\RequestHelper::getInstance();
 }
